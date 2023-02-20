@@ -80,11 +80,11 @@ python tools/test.py ${CONFIG_FILE} ${CHECKPOINT_FILE} [--out ${RESULT_FILE}] [-
 
 | Model   | Supported          |
 | :-----: | :----------------: |
-| SMOKE   | :white_check_mark: |
-| MonoCon | :x:                |
-| MonoDLE | :white_check_mark: |
-| GUPNet  | :x:                |
-| DID-M3D | :x:                |
+| [SMOKE](https://arxiv.org/pdf/2002.10111.pdf)   | :white_check_mark: |
+| [MonoCon](https://arxiv.org/pdf/2112.04628.pdf) | :x:                |
+| [MonoDLE](https://arxiv.org/pdf/2103.16237.pdf) | :white_check_mark: |
+| [GUPNet](https://arxiv.org/pdf/2107.13931.pdf)  | :x:                |
+| [DID-M3D](https://arxiv.org/pdf/2207.08531.pdf) | :x:                |
 
 
 ## 3. 规划
