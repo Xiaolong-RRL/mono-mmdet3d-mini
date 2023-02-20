@@ -30,7 +30,7 @@ pip install git+https://github.com/open-mmlab/mmdetection.git
 # install mmsegmentation
 pip install git+https://github.com/open-mmlab/mmsegmentation.git
 
-# install mmdetection3d
+# install mono-mmdet3d-mini
 git clone https://github.com/Xiaolong-RRL/mono-mmdet3d-mini.git
 cd mmdetection3d
 pip install -v -e . # or "python setup.py develop"
