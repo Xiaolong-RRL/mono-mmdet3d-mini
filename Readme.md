@@ -77,11 +77,15 @@ python tools/test.py ${CONFIG_FILE} ${CHECKPOINT_FILE} [--out ${RESULT_FILE}] [-
 
 
 ## 2. 模型
-- [x] SMOKE
-- [x] MonoCon
-- [ ] MonoDLE
-- [ ] GUPNet
-- [ ] DID-M3D
+
+| Model   | Supported          |
+| :-----: | :----------------: |
+| SMOKE   | :white_check_mark: |
+| MonoCon | :x:                |
+| MonoDLE | :white_check_mark: |
+| GUPNet  | :x:                |
+| DID-M3D | :x:                |
+
 
 ## 3. 规划
 ### Done
